@@ -217,5 +217,5 @@ Joseph Victor Ese-Osa
 Role: networkwalks Cybersecurity Intern
 Batch: B082
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/posts/joseph-victor-12bb42328_networkwalks-cybersecurity-github-ugcPost-7493685468786569217-hcKl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLAFjMBA4-Xosc04hnFQohs2X06RES0m0A
 
